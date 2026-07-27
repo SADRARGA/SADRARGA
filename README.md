@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://imgurl.ir/" target="_blank" rel="noopener"><img src="./1780749130141.jpg" border="0" alt="SADRA.jpg" style="width: 30%; height: 30%; border-radius: 50px;"/></a>
+  <a href="https://imgurl.ir/" target="_blank" rel="noopener"><img src="./1780749130141.jpg" border="0" alt="SADRA.jpg" style="width: 30%; height: 30%; border-radius: 50%; "/></a>
 </div>
 <div align='center'>
     <h1>
