@@ -10,7 +10,7 @@
 
 ##  My Expertise 
 
-[My Skills]<img src="./icons.svg"/>]
+[My Skills](<img src="./icons.svg"/>)]
 
 ## Socials:
 
