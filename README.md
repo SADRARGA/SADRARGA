@@ -10,7 +10,7 @@
 
 ##  My Expertise 
 
-[My Skills](https://skillicons.dev/icons?i=C,html,css,django,git,github,gitlab,py,vscode,windows)](https://skillicons.dev)
+[My Skills](./icons.svg)](https://skillicons.dev)
 
 ## Socials:
 
