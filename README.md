@@ -10,7 +10,7 @@
 
 ##  My Expertise 
 
-<img src="./icons.svg"/>
+<img src="./icons_2.svg"/>
 
 ## Socials:
 
