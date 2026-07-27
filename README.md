@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://imgurl.ir/" target="_blank" rel="noopener"><img src="https://cdn.imgurl.ir/uploads/d864788_244c64ac-ccb7-487b-8bf4-eb50a2cee481.jpeg" border="0" alt="SADRA.jpg" /></a>
+</div>
+<div align='center'>
+    <h1>
+    <a href='https://instagram.com/sadra.rga'>SADRA.RGA</a>
+  </h1>
+  <h4>Hi, I'm Sadra Rahimi — a Junior Frontend Developer who loves learning.</h4>
+</div>
 
-<!--
-**SADRARGA/SADRARGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  My Expertise 
 
-Here are some ideas to get you started:
+[My Skills](https://skillicons.dev/icons?i=C,html,css,django,git,github,gitlab,py,vscode,windows)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sadra.rga)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/SADRARGA)
