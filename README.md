@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://imgurl.ir/" target="_blank" rel="noopener"><img src="./1780749130141.jpg" border="0" alt="SADRA.jpg" style="width: 30%; height: 30%; border-radius: 50%; "/></a>
+  <img src="./1780749130141.jpg" border="0" alt="SADRA.jpg" style="width: 30%; height: 30%; border-radius: 50%; "/>
 </div>
 <div align='center'>
     <h1>
@@ -10,7 +10,7 @@
 
 ##  My Expertise 
 
-[My Skills](./icons.svg)](https://skillicons.dev)
+[My Skills]<img src="./icons.svg"/>]
 
 ## Socials:
 
