@@ -10,7 +10,7 @@
 
 ##  My Expertise 
 
-<img src="./icons_2.svg"/>
+<img src="https://skillicons.dev/icons?i=C,html,css,git,github,py,vscode,windows,c,js"/>
 
 ## Socials:
 
